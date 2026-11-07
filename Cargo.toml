@@ -1,0 +1,10 @@
+[package]
+name = "hadith-rs-mutawatir-ahad-rank"
+version = "1.0.0"
+edition = "2021"
+description = "Transmission Multiplicity Classifier (Mutawatir, Mashhur, Aziz, Gharib)"
+authors = ["Mahmoud ElNemer <sultanelnemer@gmail.com>"]
+
+[[bin]]
+name = "hadith_rs_mutawatir_ahad_rank"
+path = "main.rs"
